@@ -1,4 +1,4 @@
-# fall21p1
+# Fall 2021 Class Project 1
 
 ## Project Task: Write functions to analyze the stability of an underground structure based on the values of several design parameters:
 **Task 1:** Determine the critical load of support poles.
