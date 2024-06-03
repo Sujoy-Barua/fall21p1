@@ -8,3 +8,5 @@
 **Task 3:** Determine the storage capacity of the structure.
 
 **Task 4:** Calculate the total revenue from paid parking in the structure.
+
+- [Full project spec]([mailto:sujoysb@umich.edu](https://github.com/Sujoy-Barua/fall21p1/blob/main/Project%201%20Overview.pptx.pdf)
